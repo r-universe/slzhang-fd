@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "package": "lvmcomp",
+    "oncran": true
+  },
+  {
+    "package": "mirtjml",
+    "oncran": true
+  }
+]
