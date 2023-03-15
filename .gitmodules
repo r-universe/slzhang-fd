@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mirtjml"]
-	path = mirtjml
-	url = https://github.com/slzhang-fd/mirtjml
-	shallow = true
-	registered = true
 [submodule "lvmcomp"]
 	path = lvmcomp
 	url = https://github.com/slzhang-fd/lvmcomp
+	shallow = true
+	registered = true
+[submodule "mirtjml"]
+	path = mirtjml
+	url = https://github.com/slzhang-fd/mirtjml
 	shallow = true
 	registered = true
