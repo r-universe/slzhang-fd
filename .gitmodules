@@ -5,6 +5,3 @@
 [submodule "lvmcomp"]
 	path = lvmcomp
 	url = https://github.com/slzhang-fd/lvmcomp
-[submodule "mirtjml"]
-	path = mirtjml
-	url = https://github.com/slzhang-fd/mirtjml
